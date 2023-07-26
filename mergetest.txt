@@ -1,3 +1,8 @@
 original text
 o1
 o2
+same line1
+b2--addza
+same line2
+b2--addya
+same line3
